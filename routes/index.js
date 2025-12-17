@@ -1,5 +1,5 @@
 var express = require('express');
-var router = express2.Router();
+var router = express.Router();
 
 var MersenneTwister = require('mersenne-twister');
 var generator = new MersenneTwister();
