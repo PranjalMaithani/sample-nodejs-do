@@ -1,5 +1,5 @@
 const express = require('express')
-const app = express2()
+const app = express()
 const port = process.env.PORT || 3000
 
 var LoremIpsum = require('lorem-ipsum').LoremIpsum;
